@@ -264,6 +264,9 @@ input, select, textarea {
 			padding: 1rem 1.5rem;
 			overflow-x: auto;
 		}
+	svg {
+		display: block;
+	}
 
 	hr {
 		border: 0;
